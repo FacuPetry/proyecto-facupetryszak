@@ -5,3 +5,5 @@ const app_routes: Routes = [
  { path: 'home', component: HomeComponent}
 
 ];
+
+export const app_routing = RouterModule.forRoot(app_routes);
