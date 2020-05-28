@@ -1,3 +1,6 @@
+
+
+
 import { RouterModule, Routes } from '@angular/router';
 import { HomeComponent } from './home/home.component';
 import { NosotrosComponent } from './trabaja-nosotros/nosotros.component';
