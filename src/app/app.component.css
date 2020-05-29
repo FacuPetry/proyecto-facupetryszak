@@ -12,3 +12,23 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+.texto-encima h1 {
+  text-align: center; 
+  font-size: 400%; 
+  padding-left: .71429em; 
+  margin-top: 1.5rem;
+}
+
+.texto-encima p {
+  text-align: center; 
+  font-size: 200%; 
+  padding-left: .71429em;
+}
+
+img.imgFondo {
+  width: 100%; 
+  height: 600px; 
+  position: relative;
+}
+
