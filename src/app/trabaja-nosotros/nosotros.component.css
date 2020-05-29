@@ -3,8 +3,8 @@
 div.card {
     color: #ffffff;
     text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-    background-color: #006dcc;
-    background-image: linear-gradient(to bottom, #0088cc, #0044cc);
+    background-color: #707070;
+    background-image: linear-gradient(to bottom, #575858, #212122);
     background-repeat: repeat-x;
     border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
 }
