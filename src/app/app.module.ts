@@ -6,10 +6,11 @@ import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
 import { app_routing } from './app.routes';
 import { NosotrosComponent } from './trabaja-nosotros/nosotros.component';
+import { UbicacionComponent } from './ubicacion/ubicacion.component';
 
 @NgModule({
   imports:      [ BrowserModule, FormsModule, app_routing ],
-  declarations: [ AppComponent, HomeComponent, NosotrosComponent ],
+  declarations: [ AppComponent, HomeComponent, NosotrosComponent, UbicacionComponent ],
   bootstrap:    [ AppComponent ]
 })
 export class AppModule { }
