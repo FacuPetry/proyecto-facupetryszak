@@ -9,6 +9,11 @@ p {
   font-size: 105%;
 }
 
+h5.card-title{
+  text-align: left;
+  font-size: 150%;
+}
+
 p.card-text {
  text-align: justify;
   font-size: 100%;
@@ -22,4 +27,34 @@ h3 {
 
 tr.tr-texto {
   text-align: center;
+}
+
+.card-deck {
+ margin-top: 3rem;
+}
+
+.list-group {
+  margin-left: 1.5rem;
+}
+
+.card-img-top{
+  width: responsive;
+  height: 200px;
+}
+
+h5.titulo-trabaja{
+  text-align: left;
+  font-size: 250%;
+}
+
+p.texto-trabaja{
+  text-align: justify;
+  font-size: 115%;
+}
+
+.img-top{
+  width: 500px; 
+  height: 180px; 
+  position: relative; 
+  margin-top: 10px;
 }
