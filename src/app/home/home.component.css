@@ -13,3 +13,13 @@ p.card-text {
  text-align: justify;
   font-size: 100%;
 }
+
+h3 {
+  text-align: center; 
+  font-size: 200%;
+  margin-bottom: 3rem;
+}
+
+tr.tr-texto {
+  text-align: center;
+}
