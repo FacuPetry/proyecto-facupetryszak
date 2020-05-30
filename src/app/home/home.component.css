@@ -9,6 +9,7 @@ p {
   font-size: 105%;
 }
 
-li {
-  
+p.card-text {
+ text-align: justify;
+  font-size: 100%;
 }
