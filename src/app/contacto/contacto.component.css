@@ -1,7 +1,15 @@
 .title-contac {
+  color: cornflowerblue;
   text-align: center;
+  font-size: 400%;
+  margin-bottom: 2rem;
+  margin-top: 1.5rem;
 }
 
 button {
   margin-left: 33%;
+}
+
+label {
+  font-size: 105%;
 }
