@@ -25,11 +25,24 @@ p.card-text {
   height: 200px;
 }
 
+.card-img-titulo{
+  width: responsive;
+  height: 280px;
+}
+
 @media (min-width: 720px)
 {
   .card-img-top {
     width: 900px;
     height: 380px;
+    display:block;
+    margin:auto;
+  }
+
+  
+  .card-img-titulo {
+    width: 800px;
+    height: 400px;
     display:block;
     margin:auto;
   }
